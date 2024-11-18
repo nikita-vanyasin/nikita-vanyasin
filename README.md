@@ -1,5 +1,3 @@
-![](https://github.com/nikita-vanyasin/nikita-vanyasin/raw/master/out.gif)
-
 ### Hi there 👋
 
 Contact info, resume, IT-experience and more: https://vaniasin.com/
